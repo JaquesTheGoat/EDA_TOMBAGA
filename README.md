@@ -3,8 +3,7 @@
 
 -- 
 
-![Uploading 3cf9417e8a5b1e279b2759d8eda30d04.gif…]()
-
+![3cf9417e8a5b1e279b2759d8eda30d04](https://github.com/user-attachments/assets/ebc3f8a8-09b6-4cd9-9fe7-f2472afca0ab)
 
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on the *Most Streamed Spotify Songs 2023* dataset, aiming to extract meaningful insights into popular music trends, artist performance, and platform preferences. This repository was created as part of an incentive-based assignment to showcase data analysis skills using Python.
