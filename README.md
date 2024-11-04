@@ -1,7 +1,11 @@
 
-# 🎶 Exploratory Data Analysis Incentive: Spotify Top Songs 2023 🎶
+# <h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Exploratory Data Analysis Incentive: Spotify Top Songs 2023 🎶
 
 
+
+### About the Project
+
+Spotify is a Swedish audio streaming and media services provider founded in April 2006. It is the world's largest music streaming service provider and has over 381 million monthly active users, which also includes 172 million paid subscribers.
 
 ![3cf9417e8a5b1e279b2759d8eda30d04](https://github.com/user-attachments/assets/ebc3f8a8-09b6-4cd9-9fe7-f2472afca0ab)
 
