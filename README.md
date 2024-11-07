@@ -35,12 +35,7 @@ This section provides instructions to set up the environment and run the project
 ### Prerequisites
 
 Ensure you have the following installed:
-- **Python** (version 3.7 or higher)
+- **Python**
 - Libraries: `pandas`, `matplotlib`, `seaborn`, `numpy`, and `jupyter`
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Spotify-Top-Songs-EDA-Incentive.git
-   cd Spotify-Top-Songs-EDA-Incentive
