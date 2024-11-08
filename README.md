@@ -576,7 +576,8 @@ https://rakhitbari.soumitrarakshit.com/product-category/digital-products/spotify
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:francischristian.tombaga.eng@ust.edu.ph)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/JaquesTheGoat)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/FrancisTombaga)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/francischristian.tombaga?mibextid=LQQJ4d)
+
 
 
 
