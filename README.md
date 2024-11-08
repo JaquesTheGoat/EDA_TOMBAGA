@@ -562,6 +562,14 @@ An analysis of playlist and chart appearances across Spotify and Apple revealed 
 
 This exploratory data analysis provided valuable insights into the factors influencing a song’s popularity, the role of platform-specific strategies, and the seasonal trends in the music industry. One major takeaway was the importance of thorough data preprocessing—by addressing issues early on, the analysis process became smoother, and the results were more reliable. This project underscored how essential clean, well-structured data is for generating accurate insights, especially when analyzing trends in complex and varied datasets.
 
+---
+
+### References:
+References
+https://rakhitbari.soumitrarakshit.com/product-category/digital-products/spotify/
+
+--- 
+
 
 
 
